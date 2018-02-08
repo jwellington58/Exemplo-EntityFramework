@@ -1,0 +1,9 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.csprojResolveAssemblyReference.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\bin\Debug\netcoreapp2.0\AtividadePOO2.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\bin\Debug\netcoreapp2.0\AtividadePOO2.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\bin\Debug\netcoreapp2.0\AtividadePOO2.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\Atividade1Wellington\AtividadePOO2\obj\Debug\netcoreapp2.0\AtividadePOO2.pdb
